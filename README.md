@@ -1,4 +1,4 @@
-<h1 align="center"> Heyy Dev's, I'm Suyash Singh </h1>
+<h1 align="center"> Heyy Dev's , I'm Suyash Singh </h1>
 <img src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg">
 <h3 align="center">I am a self-taught programmer with a passion for technology and a drive for learning new things.</h3>
 
