@@ -4,8 +4,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashsingh7cse" alt="suyashsingh7cse" /></a> </p>
-
 <p <a href="https://www.instagram.com/suyashh.pvtxx?igsh=MWthbDQyZThpeWd5eg==" target="_blank">
     <img src="https://img.shields.io/badge/@suyashh.pvtxx-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="suyashh.pvtxx"/> </p>
 
