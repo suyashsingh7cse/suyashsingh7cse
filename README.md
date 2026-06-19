@@ -7,21 +7,21 @@ Computer Science Engineering Student | Aspiring Software Engineer | Cloud & Full
 
 
 
-- 🎓 Final Year B.Tech in Computer Science & Engineering at Galgotias University | CGPA: 8.29**
+- 🎓 Final Year B.Tech in Computer Science & Engineering at Galgotias University | CGPA: 8.29
 
-- 🔭 Currently building Java-based applications and expanding my backend development skills**
+- 🔭 Currently building Java-based applications and expanding my backend development skills
 
-- ☁️ Hands-on experience with AWS, Firebase, and cloud-based application development **
+- ☁️ Hands-on experience with AWS, Firebase, and cloud-based application development
 
-- 🤖 Built projects in Web Development, Cloud Computing, and IoT, including an EMG-based posture monitoring system**
+- 🤖 Built projects in Web Development, Cloud Computing, and IoT, including an EMG-based posture monitoring system
   
-- 💻 Comfortable with Java, Python, C/C++, HTML, CSS, JavaScript, Git, and SQL**
+- 💻 Comfortable with Java, Python, C/C++, HTML, CSS, JavaScript, Git, and SQL
   
-- 📚 Currently learning Advanced Java, Data Structures & Algorithms, and System Design++**
+- 📚 Currently learning Advanced Java, Data Structures & Algorithms, and System Design
 
-- 📫 Reach me at: suyashsingh2109@gmail.com**
+- 📫 Reach me at: **suyashsingh2109@gmail.com**
 
-- ⚡ Fun fact: I enjoy turning ideas into projects and continuously exploring new technologies.**
+- ⚡ Fun fact: I enjoy turning ideas into projects and continuously exploring new technologies.
 
 <h3 align="left">🌐 Connect with Me</h3>
 <p align="left">
