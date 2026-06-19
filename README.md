@@ -50,17 +50,20 @@ Final-Year Computer Science Engineering Student | Aspiring Software Engineer | C
 <h3 align="left">📊 GitHub Statistics</h3> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyashsingh7cse&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=suyashsingh7cse&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsingh7cse&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsingh7cse&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
-
   
 
 
-  <!--<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  <!-- <p align="center"> github statistics
+  <img src="https://github-readme-stats.vercel.app/api?username=suyashsingh7cse&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 
