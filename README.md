@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashsingh7cse" alt="suyashsingh7cse" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/suaysh_singh_07" target="blank"><img src="https://img.shields.io/twitter/follow/suaysh_singh_07?logo=twitter&style=for-the-badge" alt="suaysh_singh_07" /></a> </p>
+<p align="left"> <a href="https://twitter.com/suaysh_singh_07" target="blank"><img src="https://img.shields.io/twitter/follow/suaysh_singh_07?logo=twitter&style=for-the-badge" alt="suayshh.pvtxx" /></a> </p>
 
 - 🔭 I’m currently working on **Java based project**
 
