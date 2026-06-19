@@ -7,7 +7,8 @@
 Final-Year Computer Science Engineering Student | Aspiring Software Engineer | Cloud & Full-Stack Developer
 </h3>
 
-
+<h3 align="left">📝 About Me</h3>
+<p align="left">
 
 
 - 🎓 Final Year B.Tech in Computer Science & Engineering at Galgotias University | CGPA: 8.29
@@ -46,15 +47,11 @@ Final-Year Computer Science Engineering Student | Aspiring Software Engineer | C
 
   
 
-
-<h3 align="left">📊 GitHub Statistics</h3> 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suyashsingh7cse&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<h3 align="left">📊 GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsingh7cse&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=suyashsingh7cse&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsingh7cse&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
   
 
