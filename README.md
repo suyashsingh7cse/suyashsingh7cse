@@ -20,13 +20,13 @@
 
 <h3 align="left">🌐 Connect with Me</h3>
 <p align="left">
-<a href="https://x.com/suyash_singh_07" target="_blank">
+  <a href="https://x.com/suyash_singh_07" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suaysh_singh_07" height="30" width="40"/>
 </a>
-<a href="https://www.linkedin.com/in/suyash-020a321a8/" target="_blank">
+  <a href="https://www.linkedin.com/in/suyash-020a321a8/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suyash Singh LinkedIn" height="30" width="40"/>
 </a>
-<a href="https://www.instagram.com/suyashh.pvtxx?igsh=MWthbDQyZThpeWd5eg==" target="_blank">
+  <a href="https://www.instagram.com/suyashh.pvtxx?igsh=MWthbDQyZThpeWd5eg==" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suyashh.pvtxx" height="30" width="40"/>
 </a>
 </p>
