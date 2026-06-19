@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashsingh7cse" alt="suyashsingh7cse" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/suaysh_singh_07" target="blank"><img src="https://img.shields.io/twitter/follow/suaysh_singh_07?logo=twitter&style=for-the-badge" alt="suayshh.pvtxx" /></a> </p>
+<p <a href="https://www.instagram.com/suyashh.pvtxx?igsh=MWthbDQyZThpeWd5eg==" target="_blank">
+    <img src="https://img.shields.io/badge/@suyashh.pvtxx-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="suyashh.pvtxx"/> </p>
 
 - 🔭 I’m currently working on **Java based project**
 
@@ -22,9 +23,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/suaysh_singh_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suaysh_singh_07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suyash-singh-020a321a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suyash-singh-020a321a8/" height="30" width="40" /></a>
-<a href="https://instagram.com/suyash.pvtxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suyash.pvtxx" height="30" width="40" /></a>
+<a href="https://x.com/suyash_singh_07" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suaysh_singh_07" height="30" width="40"/>
+</a>
+<a href="https://www.linkedin.com/in/suyash-020a321a8/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suyash Singh LinkedIn" height="30" width="40"/>
+</a>
+<a href="https://www.instagram.com/suyashh.pvtxx?igsh=MWthbDQyZThpeWd5eg==" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suyashh.pvtxx" height="30" width="40"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
