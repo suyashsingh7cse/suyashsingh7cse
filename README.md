@@ -2,10 +2,9 @@
 <img src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg">
 <h3 align="center">I am a self-taught programmer with a passion for technology and a drive for learning new things.</h3>
 
-
-
-<p <a href="https://www.instagram.com/suyashh.pvtxx?igsh=MWthbDQyZThpeWd5eg==" target="_blank">
-    <img src="https://img.shields.io/badge/@suyashh.pvtxx-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="suyashh.pvtxx"/> </p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=suyashsingh7cse" alt="suyashsingh7cse" />
+</p>
 
 - 🔭 I’m currently working on **Java based project**
 
