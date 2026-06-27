@@ -15,7 +15,7 @@ Final-Year Computer Science Engineering Student | Aspiring Software Engineer | C
 
 - 🔭  Building Java applications and exploring backend development
   
-- ☁️ Hands-on experience with AWS, Firebase, and cloud-based application development
+- ☁️ Hands-on experience building web and cloud-based applications using AWS, Firebase, and REST APIs.
 
 - 🤖 Built projects in Web Development, Cloud Computing, and IoT, including an EMG-based posture monitoring system
   
