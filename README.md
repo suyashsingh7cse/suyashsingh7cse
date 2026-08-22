@@ -62,43 +62,25 @@ Final-Year Computer Science Engineering Student | Aspiring Software Engineer | C
   <img
     src="./assets/streak.svg"
     alt="GitHub Streak"
-    height="180"/>
+    height="180" width="100%"/>
 </p>
 
 <p align="center">
   <img
     src="./assets/top-langs.svg"
     alt="Top Languages"
-    height="180"/>
-</p>
-
-<p align="center">
-  <img
-    src="./assets/stats.svg"
-    alt="GitHub Stats"
-    height="180"/>
+    height="180" width="100%"/>
 </p>
 
 ---
-
-  <!-- 1.<p align="center">
-    <img src="https://streak-stats.demolab.com?user=suyashsingh7cse&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak" height="180" />
-  </a>
-  </p>
-
-  2.<p align="center">
-  <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=suyashsingh7cse&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180" />
-</p> 3. <p align="center">
+  <!--<p align="center">
   <img
-    src="https://kayan-github-profile-projects-featu.vercel.app/api?username=suyashsingh7cse&show_icons=true&theme=tokyonight&hide_border=true"
+    src="./assets/stats.svg"
     alt="GitHub Stats"
-    height="180"
-  />
-
-   <!--  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+    height="180" width="100%"/>
+</p>
+ 
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   
