@@ -34,11 +34,18 @@ Final-Year Computer Science Engineering Student | Aspiring Software Engineer | C
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suaysh_singh_07" height="30" width="40"/>
 </a>
     <a href="https://www.linkedin.com/in/suyash-020a321a8/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suyash Singh LinkedIn" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suyash-LinkedIn" height="30" width="40"/>
   </a>
     <a href="https://www.instagram.com/suyashh.pvtxx?igsh=MWthbDQyZThpeWd5eg==" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suyashh.pvtxx" height="30" width="40"/>
   </a>
+  <a href="https://suyash-singh.vercel.app/" target="_blank">
+  <img align="center"
+       src="https://img.icons8.com/fluency/48/domain.png"
+       alt="Suyash-Portfolio Website"
+       height="30"
+       width="40" />
+</a>
 </p>
 
 ---
