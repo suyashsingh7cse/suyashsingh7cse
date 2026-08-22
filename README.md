@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Suyash Singh </h1>
 <p align="center">
-  <img src="[https://www.magnific.com/free-vector/ui-ux-designers-isometric-composition-with-small-people-creating-custom-design-web-site-3d-vector-illustration_26760925.htm#fromView=keyword&page=1&position=6&uuid=952fd16a-a114-44e0-a6d7-3c716400c824&query=Web+developer](https://www.magnific.com/free-vector/ui-ux-designers-isometric-composition-with-small-people-creating-custom-design-web-site-3d-vector-illustration_26760925.htm#fromView=keyword&page=1&position=6&uuid=952fd16a-a114-44e0-a6d7-3c716400c824&query=Web+developer)" width="700"/>
+  <img src="./assets/github-banner.png" width="100%" alt="Software Developer Banner"/>
 </p>
 
 <h3 align="center">
@@ -50,8 +50,25 @@ Final-Year Computer Science Engineering Student | Aspiring Software Engineer | C
 <h3 align="left">📊 GitHub Activity</h3>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=suyashsingh7cse&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsingh7cse&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=suyashsingh7cse&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=suyashsingh7cse&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsingh7cse&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
   
 
