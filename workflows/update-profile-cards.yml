@@ -1,0 +1,58 @@
+name: Update Profile Cards
+
+on:
+  schedule:
+    # Automatically update once per day
+    - cron: "0 3 * * *"
+
+  # Allows you to run it manually
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      # 1. Generate GitHub Streak card
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          options: user=suyashsingh7cse&theme=tokyonight&hide_border=true
+          path: assets/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Generate Top Languages card
+      - name: Generate top languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=suyashsingh7cse&layout=compact&theme=tokyonight&hide_border=true
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Generate GitHub Stats card
+      - name: Generate GitHub stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=suyashsingh7cse&show_icons=true&theme=tokyonight&hide_border=true
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Save all generated cards to your assets folder
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/*.svg
+
+          git diff --staged --quiet || git commit -m "Update profile cards"
+
+          git push

@@ -59,19 +59,39 @@ Final-Year Computer Science Engineering Student | Aspiring Software Engineer | C
 <h3 align="left">📊 GitHub Activity</h3>
 
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=suyashsingh7cse&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-  </a>
-  </p>
+  <img
+    src="./assets/streak.svg"
+    alt="GitHub Streak"
+    height="180"/>
+</p>
 
-  <p align="center">
-  <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=suyashsingh7cse&layout=compact&theme=tokyonight&hide_border=true"
+<p align="center">
+  <img
+    src="./assets/top-langs.svg"
     alt="Top Languages"
-    height="180" />
+    height="180"/>
+</p>
+
+<p align="center">
+  <img
+    src="./assets/stats.svg"
+    alt="GitHub Stats"
+    height="180"/>
 </p>
 
 ---
 
-  <!-- <p align="center">
+  <!-- 1.<p align="center">
+    <img src="https://streak-stats.demolab.com?user=suyashsingh7cse&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak" height="180" />
+  </a>
+  </p>
+
+  2.<p align="center">
+  <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=suyashsingh7cse&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180" />
+</p> 3. <p align="center">
   <img
     src="https://kayan-github-profile-projects-featu.vercel.app/api?username=suyashsingh7cse&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
