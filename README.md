@@ -58,47 +58,37 @@ Final-Year Computer Science Engineering Student | Aspiring Software Engineer | C
 
 <h3 align="left">📊 GitHub Activity</h3>
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=suyashsingh7cse&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
 
+  <p align="center">
   <img
-    height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=suyashsingh7cse&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=suyashsingh7cse&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
-  />
-</p>
+    height="180" />
+  </p>
 
-<p align="center">
+  <p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashsingh7cse&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=suyashsingh7cse&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
-  />
+    height="180" />
 </p>
 
 ---
 
-  <!-- <p align="center"> github statistics
-  <img src="https://github-readme-stats.vercel.app/api?username=suyashsingh7cse&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+  <!-- <p align="center">
+  <img
+    src="https://kayan-github-profile-projects-featu.vercel.app/api?username=suyashsingh7cse&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="180"
+  />
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+   <!--  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   
-
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 
-
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
-
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
