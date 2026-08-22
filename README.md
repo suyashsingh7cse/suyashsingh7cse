@@ -62,14 +62,14 @@ Final-Year Computer Science Engineering Student | Aspiring Software Engineer | C
   <img
     src="./assets/streak.svg"
     alt="GitHub Streak"
-    height="180" width="100%"/>
+    height="180" width="100"/>
 </p>
 
 <p align="center">
   <img
     src="./assets/top-langs.svg"
     alt="Top Languages"
-    height="180" width="100%"/>
+    height="180" width="100"/>
 </p>
 
 ---
