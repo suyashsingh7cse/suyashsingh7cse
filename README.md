@@ -58,17 +58,13 @@ Final-Year Computer Science Engineering Student | Aspiring Software Engineer | C
 
 <h3 align="left">📊 GitHub Activity</h3>
 
-
   <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=suyashsingh7cse&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    height="180" />
+    <img src="https://streak-stats.demolab.com?user=suyashsingh7cse&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  </a>
   </p>
 
   <p align="center">
-  <img
-    src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=suyashsingh7cse&layout=compact&theme=tokyonight&hide_border=true"
+  <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=suyashsingh7cse&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
     height="180" />
 </p>
